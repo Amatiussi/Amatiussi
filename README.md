@@ -1,3 +1,5 @@
+Este repositório é dedicado ao compartilhamento das atividades realizadas durante minha Iniciação Científica (2021-2024). Nele, você encontrará scripts, exercícios e testes de pacotes relacionados ao melhoramento genético vegetal, genética quantitativa, modelos biométricos, métodos multivariados e análise de dados experimentais.
+
 <div align="center">
 <a href="https://github.com/Amatiussi"> 
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Amatiussi&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
