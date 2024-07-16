@@ -1,4 +1,4 @@
-Este repositório é dedicado ao compartilhamento das atividades realizadas durante minha Iniciação Científica (2021-2024). Nele, você encontrará scripts, exercícios e testes de pacotes relacionados ao melhoramento genético vegetal, genética quantitativa, modelos biométricos, métodos multivariados e análise de dados experimentais.
+Este repositório é destinado ao compartilhamento de atividades e anotações sobre ferramentas aplicadas à genética e ao melhoramento de plantas. Aqui, você encontrará scripts, exercícios e testes de pacotes relacionados ao melhoramento genético vegetal, genética quantitativa, modelos biométricos, métodos multivariados e análise de dados experimentais.
 
 <div align="center">
 <a href="https://github.com/Amatiussi"> 
@@ -15,4 +15,4 @@ Este repositório é dedicado ao compartilhamento das atividades realizadas dura
   <img align="center" alt="LATEX" height="50" width="50" src="https://devicon-website.vercel.app/api/latex/original.svg?color=%23FFFFFF"></img>
 </div>
 
-Embora este repositório seja voltado principalmente para a linguagem R, tenho experiência em Python e LaTeX, as quais serão incorporadas aqui no futuro.
+Embora este repositório seja focado principalmente na linguagem R, também haverá compartilhamento de outras linguagens, como Python e LaTeX, que serão adicionadas futuramente.
