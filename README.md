@@ -1,4 +1,4 @@
-Este repositório é destinado ao compartilhamento de atividades e anotações sobre ferramentas aplicadas a genética e ao melhoramento de plantas. Aqui, você encontrará scripts, exercícios e testes de pacotes relacionados ao melhoramento genético vegetal, genética quantitativa, modelos biométricos, métodos multivariados e análise de dados experimentais. 
+Este repositório é destinado ao compartilhamento de atividades, anotações, scripts, exercícios e testes de pacotes relacionados ao melhoramento genético vegetal e a genética estatística. 
 
 <div align="center">
 <a href="https://github.com/Amatiussi"> 
