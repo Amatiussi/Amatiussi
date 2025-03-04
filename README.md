@@ -7,13 +7,6 @@ Este repositório é destinado ao compartilhamento de atividades, anotações, s
 </div>
 
 
-<div>
-<a href="https://github.com/Amatiussi">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amatiussi &layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Amatiussi &show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
   <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"/>
