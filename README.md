@@ -5,14 +5,14 @@ Este repositório é destinado ao compartilhamento de atividades, anotações, s
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
 
-## 🖥️ Tecnologias e Ferramentas:
+## Tecnologias e Ferramentas:
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
-  <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"/>
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg"/>
-    <img align="center" alt="LATEX" height="30" width="35" src="https://icongr.am/entypo/bar-graph.svg?size=128&color=ffffff"></img>
-  <img align="center" alt="LATEX" height="50" width="50" src="https://devicon-website.vercel.app/api/latex/original.svg?color=%23FFFFFF"></img>
+  <code><img align="center" alt="R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/></code>
+  <code><img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"/></code>
+  <code><img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/></code>
+  <code><img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg"/></code>
+  <code><img align="center" alt="LATEX" height="30" width="35" src="https://icongr.am/entypo/bar-graph.svg?size=128&color=ffffff"/></code>
+  <code><img align="center" alt="LATEX" height="50" width="50" src="https://devicon-website.vercel.app/api/latex/original.svg?color=%23FFFFFF"/></code>
 </div>
 
 <img>
