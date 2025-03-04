@@ -8,6 +8,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Permite que o GITHUB_TOKEN faça push no branch
+
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v3
