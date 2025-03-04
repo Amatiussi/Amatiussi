@@ -15,7 +15,6 @@ Este repositório é destinado ao compartilhamento de atividades, anotações, s
   <code><img width="40px" alt="LATEX" height="50" width="50" src="https://devicon-website.vercel.app/api/latex/original.svg?color=%23FFFFFF"/></code>
 </div>
 
-<img>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" title="RStudio"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
