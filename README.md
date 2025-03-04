@@ -6,6 +6,8 @@ Este repositório é destinado ao compartilhamento de atividades, anotações, s
 </p>
 
 ## Languages:
+Embora este repositório seja focado principalmente na linguagem R, também haverá compartilhamento de outras linguagens, como Python e LaTeX, que serão adicionadas futuramente.
+
 <div align="center" style="display: inline_block"><br>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" title="RStudio"/></code>
@@ -14,8 +16,6 @@ Este repositório é destinado ao compartilhamento de atividades, anotações, s
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/></code>
   <code><img width="40px" src="https://devicon-website.vercel.app/api/latex/original.svg?color=%23FFFFFF" title="LaTeX"/></code>
 </div>
-Embora este repositório seja focado principalmente na linguagem R, também haverá compartilhamento de outras linguagens, como Python e LaTeX, que serão adicionadas futuramente.
-
 
 ## Github Stats
 <p align="center">
