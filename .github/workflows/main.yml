@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Executa uma vez por dia à meia-noite 
+    - cron: "0 0 * * *"  # Executa uma vez por dia à meia-noite
   workflow_dispatch:
 
 jobs:
@@ -14,6 +14,9 @@ jobs:
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v3
+
+      - name: Criar diretório dist
+        run: mkdir -p dist
 
       - name: Gerar a animação da cobrinha
         uses: Platane/snk@v3
