@@ -1,12 +1,12 @@
-## Hello, Devs!! 
-Este repositório é um espaço onde compartilho minhas aventuras no mundo da **genética estatística** e do **melhoramento genético vegetal**.🌱
-
-<div>
+<div align="center">
   <div style="display: flex; align-items: center; gap: 20px;">
     <div>
-      Neste repositório, você vai encontrar: <br>
-      - **Scripts** em R e Python para análise de dados genéticos. <br>
-      - **Anotações** sobre métodos estatísticos e suas aplicações no melhoramento. <br>
+      ## Hello, Devs!! 
+      Este repositório é um espaço onde compartilho minhas aventuras no mundo da **genética estatística** e do **melhoramento genético vegetal**.🌱
+
+      Neste repositório, você vai encontrar:
+      - **Scripts** em R e Python para análise de dados genéticos.
+      - **Anotações** sobre métodos estatísticos e suas aplicações no melhoramento.
       - **Projetos pessoais** onde aplico o que aprendo no dia a dia.
     </div>
     <div>
