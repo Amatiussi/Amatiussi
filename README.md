@@ -1,12 +1,28 @@
 ## Hello, Devs!! 
-Este repositório é destinado ao compartilhamento de atividades, anotações, scripts, exercícios e testes de pacotes relacionados ao melhoramento genético vegetal e a genética estatística. 
+Este repositório é um espaço onde compartilho minhas aventuras no mundo da **genética estatística** e do **melhoramento genético vegetal**.🌱
+
+Neste repositório, você vai encontrar:
+- **Scripts** em R e Python para análise de dados genéticos.
+- **Anotações** sobre métodos estatísticos e suas aplicações no melhoramento.
+- **Projetos pessoais** onde aplico o que aprendo no dia a dia.
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
 
+📊 Atualmente, estou estagiando no Laboratório de Genética Estatística (StatGen) da ESALQ/USP, onde mergulho fundo em:
+- **Predição genômica** usando métodos como GBLUP, HBLUP e PBLUP.
+- Construção e manipulação de **matrizes de parentesco**.
+- Estimativa de **parâmetros genéticos** e aplicação de **modelos mistos** para análise de dados genéticos.
+
+✍ Já trabalhei com dados experimentais de cana-de-açúcar, onde explorei:
+- A **Interação entre Genótipos e Ambientes**.
+- Métodos **multivariados** para identificar genótipos superiores.
+
+Estou sempre explorando novas técnicas, ferramentas e metodologias da **genética estatística** para analisar dados genéticos aplicados ao **melhoramento genético**. Se você também se interessa por essas áreas, vamos trocar ideias! 😁
+
 ## Languages:
-Embora este repositório seja focado principalmente na linguagem R, também haverá compartilhamento de outras linguagens, como Python e LaTeX, que serão adicionadas futuramente.
+Embora o foco principal seja na linguagem R, também compartilharei scripts e projetos em outras linguagens, como Python e LaTeX, à medida que eu for explorando essas ferramentas. 🚀
 
 <div align="center" style="display: inline_block"><br>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R"/></code>
