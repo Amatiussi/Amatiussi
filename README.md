@@ -16,3 +16,5 @@ Este repositório é destinado ao compartilhamento de atividades, anotações, s
 </div>
 
 Embora este repositório seja focado principalmente na linguagem R, também haverá compartilhamento de outras linguagens, como Python e LaTeX, que serão adicionadas futuramente.
+
+![Snake animation](https://github.com/Amatiussi/Amatiussi/blob/output/github-contribution-grid-snake.svg)
