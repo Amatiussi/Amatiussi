@@ -4,11 +4,7 @@ Este repositório é destinado ao compartilhamento de atividades, anotações, s
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
 
-<div align="center">
-<a href="https://github.com/Amatiussi"> 
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Amatiussi&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amatiussi&theme=dracula&hide_border=false&&layout=compact"/>
-</div>
+
 
 <p align="center">
 <a href="https://github.com/Amatiussi">
