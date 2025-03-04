@@ -1,6 +1,8 @@
 ## Hello, Devs!! 
 Este repositório é um espaço onde compartilho minhas aventuras no mundo da **genética estatística** e do **melhoramento genético vegetal**.🌱
 
+<br>
+
 <img width="280px" align="right" src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif">
 
 Neste repositório, você vai encontrar:
