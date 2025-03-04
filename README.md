@@ -19,14 +19,7 @@ Este repositório é destinado ao compartilhamento de atividades, anotações, s
 ## Github Stats
 <p align="center">
 <a href="https://github.com/Amatiussi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Amatiussi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Amatiussi&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Amatiussi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Amatiussi&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
-
-
-
-Embora este repositório seja focado principalmente na linguagem R, também haverá compartilhamento de outras linguagens, como Python e LaTeX, que serão adicionadas futuramente.
-
-
-
