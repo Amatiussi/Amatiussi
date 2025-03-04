@@ -25,4 +25,4 @@ Embora este repositório seja focado principalmente na linguagem R, também have
 </a>
 </p>
 
-![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/Amatiussi/Amatiussi/output/dist/github-contribution-grid-snake.svg)
