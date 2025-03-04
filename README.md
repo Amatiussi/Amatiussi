@@ -21,7 +21,7 @@ Neste repositório, você vai encontrar:
 - A **Interação entre Genótipos e Ambientes**.
 - Métodos **multivariados** para identificar genótipos superiores.
 
-Estou sempre explorando novas técnicas, ferramentas e metodologias da **genética estatística** para analisar dados genéticos aplicados ao **melhoramento genético**. Se você também se interessa por essas áreas, vamos trocar ideias! 😁
+Estou sempre explorando novas técnicas, ferramentas e metodologias da **genética estatística** para analisar dados genéticos aplicados ao **melhoramento vegetal**. Se você também se interessa por essas áreas, vamos trocar ideias! 😁
 
 ## Languages:
 Embora o foco principal seja na linguagem R, também compartilharei scripts e projetos em outras linguagens, como Python e LaTeX, à medida que eu for explorando essas ferramentas. 🚀
