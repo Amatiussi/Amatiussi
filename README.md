@@ -13,9 +13,6 @@ Este repositório é destinado ao compartilhamento de atividades, anotações, s
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/></code>
   <code><img width="40px" src="https://devicon-website.vercel.app/api/latex/original.svg?color=%23FFFFFF" title="LaTeX"/></code>
-  <code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Normal_Distribution_PDF.svg" title="Estatística"/></code>
-  <code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Phylogenetic_tree.svg" title="Árvore Filogenética"/></code>
-  <code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/DNA_Icon.svg" title="Genética"/></code>
 </div>
 
 
