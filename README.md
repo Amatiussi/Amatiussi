@@ -1,21 +1,21 @@
 ## Hello, Devs!! 
 Este repositório é um espaço onde compartilho minhas aventuras no mundo da **genética estatística** e do **melhoramento genético vegetal**.🌱
 
-<img width="300px" align="right" src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif">
+<img width="280px" align="right" src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif">
 
 Neste repositório, você vai encontrar:
 - **Scripts** em R e Python para análise de dados genéticos.
 - **Anotações** sobre métodos estatísticos e suas aplicações no melhoramento.
 - **Projetos pessoais** onde aplico o que aprendo no dia a dia.
-
---
+<br>
+---
 
 📊 Atualmente, estou estagiando no Laboratório de Genética Estatística (StatGen) da ESALQ/USP, onde mergulho fundo em:
 - **Predição genômica** usando métodos como GBLUP, HBLUP e PBLUP.
 - Construção e manipulação de **matrizes de parentesco**.
 - Estimativa de **parâmetros genéticos** e aplicação de **modelos mistos** para análise de dados genéticos.
 
---
+---
 
 ✍ Já trabalhei com dados experimentais de cana-de-açúcar, onde explorei:
 - A **Interação entre Genótipos e Ambientes**.
@@ -23,7 +23,7 @@ Neste repositório, você vai encontrar:
 
 Estou sempre explorando novas técnicas, ferramentas e metodologias da **genética estatística** para analisar dados genéticos aplicados ao **melhoramento genético**. Se você também se interessa por essas áreas, vamos trocar ideias! 😁
 
---
+---
 
 ## Languages:
 Embora o foco principal seja na linguagem R, também compartilharei scripts e projetos em outras linguagens, como Python e LaTeX, à medida que eu for explorando essas ferramentas. 🚀
@@ -36,6 +36,8 @@ Embora o foco principal seja na linguagem R, também compartilharei scripts e pr
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/></code>
   <code><img width="40px" src="https://devicon-website.vercel.app/api/latex/original.svg?color=%23FFFFFF" title="LaTeX"/></code>
 </div>
+
+---
 
 ## Github Stats
 <p align="center">
