@@ -6,17 +6,18 @@ Neste repositório, você vai encontrar:
 - **Anotações** sobre métodos estatísticos e suas aplicações no melhoramento.
 - **Projetos pessoais** onde aplico o que aprendo no dia a dia.
 
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
+<br>
+
+<img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350" align="right">
 
 ---
-
 
 📊 Atualmente, estou estagiando no Laboratório de Genética Estatística (StatGen) da ESALQ/USP, onde mergulho fundo em:
 - **Predição genômica** usando métodos como GBLUP, HBLUP e PBLUP.
 - Construção e manipulação de **matrizes de parentesco**.
 - Estimativa de **parâmetros genéticos** e aplicação de **modelos mistos** para análise de dados genéticos.
+
+---
 
 ✍ Já trabalhei com dados experimentais de cana-de-açúcar, onde explorei:
 - A **Interação entre Genótipos e Ambientes**.
