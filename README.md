@@ -20,8 +20,8 @@ Este repositório é destinado ao compartilhamento de atividades, anotações, s
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" title="RStudio"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-white.svg" title="GitHub"/></code>
-<code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" title="LaTeX"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/></code>
+<code><img width="40px" src="https://devicon-website.vercel.app/api/latex/original.svg?color=%23FFFFFF" title="LaTeX"/></code>
 
 
 
