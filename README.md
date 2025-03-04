@@ -1,5 +1,9 @@
 Este repositório é destinado ao compartilhamento de atividades, anotações, scripts, exercícios e testes de pacotes relacionados ao melhoramento genético vegetal e a genética estatística. 
 
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
+
 <div align="center">
 <a href="https://github.com/Amatiussi"> 
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Amatiussi&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
