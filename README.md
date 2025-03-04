@@ -24,4 +24,4 @@ Este repositório é destinado ao compartilhamento de atividades, anotações, s
 </a>
 </p>
 
-![Snake animation](https://github.com/Amatiussi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Amatiussi/output/github-contribution-grid-snake.svg)
