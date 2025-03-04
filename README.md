@@ -8,11 +8,11 @@ Este repositório é destinado ao compartilhamento de atividades, anotações, s
 ## Tecnologias e Ferramentas:
 <div align="center" style="display: inline_block"><br>
   <code><img width="40px" alt="R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/></code>
-  <code><img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"/></code>
-  <code><img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/></code>
-  <code><img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg"/></code>
-  <code><img align="center" alt="LATEX" height="30" width="35" src="https://icongr.am/entypo/bar-graph.svg?size=128&color=ffffff"/></code>
-  <code><img align="center" alt="LATEX" height="50" width="50" src="https://devicon-website.vercel.app/api/latex/original.svg?color=%23FFFFFF"/></code>
+  <code><img width="40px" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"/></code>
+  <code><img width="40px" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/></code>
+  <code><img width="40px" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg"/></code>
+  <code><img width="40px" alt="LATEX" height="30" width="35" src="https://icongr.am/entypo/bar-graph.svg?size=128&color=ffffff"/></code>
+  <code><img width="40px" alt="LATEX" height="50" width="50" src="https://devicon-website.vercel.app/api/latex/original.svg?color=%23FFFFFF"/></code>
 </div>
 
 <img>
