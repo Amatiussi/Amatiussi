@@ -10,6 +10,13 @@ Este repositório é destinado ao compartilhamento de atividades, anotações, s
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amatiussi&theme=dracula&hide_border=false&&layout=compact"/>
 </div>
 
+<p align="center">
+<a href="https://github.com/Amatiussi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Amatiussi &show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Amatiussi &layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
