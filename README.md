@@ -1,17 +1,16 @@
 ## Hello, Devs!! 
 Este repositório é um espaço onde compartilho minhas aventuras no mundo da **genética estatística** e do **melhoramento genético vegetal**.🌱
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div>
-    Neste repositório, você vai encontrar:
-    - **Scripts** em R e Python para análise de dados genéticos.
-    - **Anotações** sobre métodos estatísticos e suas aplicações no melhoramento.
-    - **Projetos pessoais** onde aplico o que aprendo no dia a dia.
-  </div>
-  <div>
-    <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-  </div>
-</div>|
+Neste repositório, você vai encontrar:
+- **Scripts** em R e Python para análise de dados genéticos.
+- **Anotações** sobre métodos estatísticos e suas aplicações no melhoramento.
+- **Projetos pessoais** onde aplico o que aprendo no dia a dia.
+
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
+
+---
 
 
 📊 Atualmente, estou estagiando no Laboratório de Genética Estatística (StatGen) da ESALQ/USP, onde mergulho fundo em:
