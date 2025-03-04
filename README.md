@@ -23,3 +23,5 @@ Este repositório é destinado ao compartilhamento de atividades, anotações, s
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Amatiussi&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
+
+![Snake animation](https://github.com/Amatiussi/blob/output/github-contribution-grid-snake.svg)
