@@ -1,7 +1,7 @@
 ## Hello, Devs!! 
 Este repositório é um espaço onde compartilho minhas aventuras no mundo da **genética estatística** e do **melhoramento genético vegetal**.🌱
 
-<img width="200px" align="right" src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif">
+<img width="300px" align="right" src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif">
 
 Neste repositório, você vai encontrar:
 - **Scripts** em R e Python para análise de dados genéticos.
