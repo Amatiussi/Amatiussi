@@ -1,7 +1,7 @@
 ## Hello, Devs!! 
 Este repositório é um espaço onde compartilho minhas aventuras no mundo da **genética estatística** e do **melhoramento genético vegetal**.🌱
 
-<div align="center">
+<div>
   <div style="display: flex; align-items: center; gap: 20px;">
     <div>
       Neste repositório, você vai encontrar: <br>
