@@ -43,4 +43,4 @@ Embora o foco principal seja na linguagem R, também compartilharei scripts e pr
 </a>
 </p>
 
-![snake gif](https://github.com/Amatiussi/Amatiussi/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Amatiussi/Amatiussi/blob/output/github-contribution-grid-snake.svg)
