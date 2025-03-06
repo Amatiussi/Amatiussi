@@ -44,3 +44,5 @@ Embora o foco principal seja na linguagem R, também compartilharei scripts e pr
 </p>
 
 ![snake gif](https://github.com/Amatiussi/Amatiussi/blob/output/github-contribution-grid-snake.svg)
+
+[Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) 
