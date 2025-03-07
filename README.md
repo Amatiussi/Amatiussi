@@ -13,7 +13,7 @@ Neste repositório, você vai encontrar:
 <br> <!-- reduzir o espaçamento manualmente com quebras de linha -->
 
 📊 Atualmente, estou estagiando no Laboratório de Genética Estatística (StatGen) da ESALQ/USP, onde mergulho fundo em:
-- **Predição genômica** usando métodos como GBLUP, HBLUP e PBLUP.
+- **Predição genômica** usando métodos como PBLUP, GBLUP, HBLUP e SSGBLUP.
 - Construção e manipulação de **matrizes de parentesco**.
 - Estimativa de **parâmetros genéticos** e aplicação de **modelos mistos** para análise de dados genéticos.
 
