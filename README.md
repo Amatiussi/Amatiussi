@@ -24,7 +24,7 @@ Neste repositório, você vai encontrar:
 Estou sempre explorando novas técnicas, ferramentas e metodologias da **genética estatística** para analisar dados genéticos aplicados ao **melhoramento vegetal**. Se você também se interessa por essas áreas, vamos trocar ideias! 😁
 
 ## Languages:
-Embora o foco principal seja na linguagem R, também compartilharei scripts e projetos em outras linguagens, como Python e LaTeX, à medida que eu for explorando essas ferramentas. 🚀
+Embora o foco principal seja na linguagem R, também compartilharei scripts e projetos em outras linguagens à medida que eu for explorando outras ferramentas. 🚀
 
 <div align="center" style="display: inline_block"><br>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R"/></code>
