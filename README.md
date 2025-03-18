@@ -34,9 +34,6 @@ Embora o foco principal seja na linguagem R, também compartilharei scripts e pr
   <code><img width="40px" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" title="GitHub"/></code>
   <code><img width="40px" src="https://devicon-website.vercel.app/api/latex/original.svg?color=%23FFFFFF" title="LaTeX"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter"/></code>
-  <code><img width="40px" src="" title=""/></code>
-  <code><img width="40px" src="" title=""/></code>
-          
 </div>
 
 ## Github Stats
