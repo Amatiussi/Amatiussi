@@ -12,14 +12,10 @@ Neste repositório, você vai encontrar:
   
 <br> <!-- reduzir o espaçamento manualmente com quebras de linha -->
 
-📊 Atualmente, estou estagiando no Laboratório de Genética Estatística ([StatGen](https://github.com/statgen-esalq)) da ESALQ/USP, onde mergulho fundo em:
-- **Predição genômica** usando métodos como PBLUP, GBLUP, HBLUP e SSGBLUP.
+📊 Atualmente, estou estagiando no Laboratório de Genética Estatística ([StatGen](https://github.com/statgen-esalq)) da ESALQ/USP, explorando:
 - Construção e manipulação de **matrizes de parentesco**.
+- **Predição genômica** usando métodos como PBLUP (kinship), GBLUP (molecular marker), HBLUP (Hybrid) e SSGBLUP (Single-step).
 - Estimativa de **parâmetros genéticos** e aplicação de **modelos mistos** para análise de dados genéticos.
-
-✍ Já trabalhei com dados experimentais de cana-de-açúcar, onde explorei:
-- A **Interação entre Genótipos e Ambientes**, usando metodologi.
-- Métodos **multivariados** para identificar genótipos superiores.
 
 ✍ Já trabalhei com dados experimentais de cana-de-açúcar, explorando:
 - Diferentes interações: Genótipos × Ambientes (IGA), interação tripla (IGLC) e Genótipos × Corte (IGC).
