@@ -18,7 +18,7 @@ Neste repositório, você vai encontrar:
 - Estimativa de **parâmetros genéticos** e aplicação de **modelos mistos** para análise de dados genéticos.
 
 ✍ Já trabalhei com dados experimentais de cana-de-açúcar, explorando:
-- Diferentes interações: Genótipos × Ambientes (IGA), interação tripla (IGLC) e Genótipos × Corte (IGC).
+- **Diferentes interações**: Genótipos × Ambientes (IGA), Genótipos × Corte (IGC) e interação tripla (IGLC).
 - Diferentes Metodologias: AMMI, GGE Biplot, Eberhart-Russell e Modelos Mistos para identificar genótipos superiores.
 
 Estou sempre explorando novas técnicas, ferramentas e metodologias da **genética estatística** para analisar dados genéticos aplicados ao **melhoramento vegetal**. Se você também se interessa por essas áreas, vamos trocar ideias! 😁
