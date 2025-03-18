@@ -6,7 +6,7 @@ Este repositório é um espaço onde compartilho minhas aventuras no mundo da **
 <img width="280px" align="right" src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif">
 
 Neste repositório, você vai encontrar:
-- **Scripts** em R e Python para análise de dados genéticos.
+- **Scripts** em R para análise de dados genéticos.
 - **Anotações** sobre métodos estatísticos e suas aplicações no melhoramento.
 - **Projetos pessoais** onde aplico o que aprendo no dia a dia.
   
@@ -18,8 +18,12 @@ Neste repositório, você vai encontrar:
 - Estimativa de **parâmetros genéticos** e aplicação de **modelos mistos** para análise de dados genéticos.
 
 ✍ Já trabalhei com dados experimentais de cana-de-açúcar, onde explorei:
-- A **Interação entre Genótipos e Ambientes**.
+- A **Interação entre Genótipos e Ambientes**, usando metodologi.
 - Métodos **multivariados** para identificar genótipos superiores.
+
+✍ Já trabalhei com dados experimentais de cana-de-açúcar, explorando:
+- Diferentes interações: Genótipos × Ambientes (IGA), interação tripla (IGLC) e Genótipos × Corte (IGC).
+- Diferentes Metodologias: AMMI, GGE Biplot, Eberhart-Russell e Modelos Mistos para identificar genótipos superiores.
 
 Estou sempre explorando novas técnicas, ferramentas e metodologias da **genética estatística** para analisar dados genéticos aplicados ao **melhoramento vegetal**. Se você também se interessa por essas áreas, vamos trocar ideias! 😁
 
