@@ -41,12 +41,9 @@ Embora o foco principal seja na linguagem R, também compartilharei scripts e pr
 <a href="https://github.com/Amatiussi">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Amatiussi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Amatiussi&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amatiussi&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" height="290" alt="activity-graph graph"/>
 </a>
 </p>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amatiussi&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" height="290" alt="activity-graph graph"/>
-</div>
 
 <!--![snake gif](https://github.com/Amatiussi/Amatiussi/blob/output/github-contribution-grid-snake.svg) -->
 ![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
