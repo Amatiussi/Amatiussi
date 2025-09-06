@@ -6,20 +6,22 @@ Este repositório é um espaço onde compartilho minhas aventuras no mundo da **
 <img width="280px" align="right" src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif">
 
 Neste repositório, você vai encontrar:
-- **Scripts** em R para análise de dados genéticos.
-- **Anotações** sobre métodos estatísticos e suas aplicações no melhoramento.
+- **Scripts** em R para análise de dados genéticos;
+- **Anotações** sobre métodos estatísticos aplicados ao melhoramento;
 - **Projetos pessoais** onde aplico o que aprendo no dia a dia.
   
 <br> <!-- reduzir o espaçamento manualmente com quebras de linha -->
 
-📊 Atualmente, estou estagiando no Laboratório de Genética Estatística ([StatGen](https://github.com/statgen-esalq)) da ESALQ/USP, trabalhando com:
-- Construção e manipulação de **matrizes de parentesco**.
-- **Predição genômica** usando métodos como PBLUP (kinship), GBLUP (molecular marker), HBLUP (Hybrid) e SSGBLUP (Single-step).
-- Estimativa de **parâmetros genéticos** e aplicação de **modelos mistos** para análise de dados genéticos.
+📊 Atualmente, sou mestranda em Genética e Melhoramento de Plantas pelo Departamento de Genética da ESALQ/USP, atuando no Laboratório de Genética Estatística ([StatGen](https://github.com/statgen-esalq)). 
 
-✍ Já trabalhei com dados experimentais de cana-de-açúcar, explorando:
-- **Diferentes interações**: Genótipos × Ambientes (IGA), Genótipos × Corte (IGC) e interação tripla (IGLC).
-- Diferentes Metodologias: AMMI, GGE Biplot, Eberhart-Russell e Modelos Mistos para identificar genótipos superiores.
+👩‍💻 Durante a graduação, desenvolvi atividades relacionadas à estimativa de parâmetros genéticos e à aplicação de métodos estatísticos no contexto do melhoramento vegetal.
+
+✍ Minhas principais experiências incluem:
+- Construção e manipulação de **matrizes de parentesco** (A, G e H);
+- **Predição genética** usando métodos como PBLUP (kinship), GBLUP (molecular marker), HBLUP (Hybrid) e SSGBLUP (Single-step);
+- Estimativa de **parâmetros genéticos** e aplicação de **modelos mistos** para análise de dados genéticos;
+- Análise de dados experimentais de cana-de-açúcar, explorando **diferentes interações**: Genótipos × Ambientes (IGA), Genótipos × Corte (IGC) e interação tripla (IGAC);
+- Utilização de **diferentes metodologias**: AMMI, GGE Biplot, Eberhart-Russell e Modelos Mistos para identificação de genótipos superiores.
 
 Estou sempre explorando novas técnicas, ferramentas e metodologias da **genética estatística** para analisar dados genéticos aplicados ao **melhoramento vegetal**. Se você também se interessa por essas áreas, vamos trocar ideias! 😁
 
