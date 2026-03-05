@@ -14,14 +14,17 @@ Neste repositório, você vai encontrar:
 
 📊 Atualmente, sou mestranda em Genética e Melhoramento de Plantas pelo Departamento de Genética da ESALQ/USP, atuando no Laboratório de Genética Estatística ([StatGen](https://github.com/statgen-esalq)). 
 
-👩‍💻 Durante a graduação, desenvolvi atividades relacionadas à estimativa de parâmetros genéticos e à aplicação de métodos estatísticos no contexto do melhoramento vegetal.
+👩‍💻 Ao longo da graduação e da pós-graduação, tenho desenvolvido atividades relacionadas à estimativa de parâmetros genéticos e à aplicação de métodos estatísticos no melhoramento vegetal.
 
 ✍ Minhas principais experiências incluem:
 - Construção e manipulação de **matrizes de parentesco** (A, G e H);
 - **Predição genética** usando métodos como PBLUP (kinship), GBLUP (molecular marker), HBLUP (Hybrid) e SSGBLUP (Single-step);
 - Estimativa de **parâmetros genéticos** e aplicação de **modelos mistos** para análise de dados genéticos;
 - Análise de dados experimentais de cana-de-açúcar, explorando **diferentes interações**: Genótipos × Ambientes (IGA), Genótipos × Corte (IGC) e interação tripla (IGAC);
-- Utilização de **diferentes metodologias**: AMMI, GGE Biplot, Eberhart-Russell e Modelos Mistos para identificação de genótipos superiores.
+- Utilização de **diferentes metodologias**: AMMI, GGE Biplot, Eberhart-Russell e Modelos Mistos para identificação de genótipos superiores;
+- Construção de mapas genéticos;
+- Mapeamento de QTL em população biparental (diploide);
+- Deep Learning aplicado à fenotipagem digital.
 
 Estou sempre explorando novas técnicas, ferramentas e metodologias da **genética estatística** para analisar dados genéticos aplicados ao **melhoramento vegetal**. Se você também se interessa por essas áreas, vamos trocar ideias! 😁
 
