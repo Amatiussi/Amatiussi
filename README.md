@@ -8,7 +8,7 @@ Este repositório é um espaço onde compartilho minhas aventuras no mundo da **
 Neste repositório, você vai encontrar:
 - **Scripts** em R para análise de dados genéticos;
 - **Anotações** sobre métodos estatísticos aplicados ao melhoramento;
-- **Projetos pessoais** onde aplico o que aprendo no dia a dia.
+- **Projetos pessoais** em que aplico o que aprendo no dia a dia.
   
 <br> <!-- reduzir o espaçamento manualmente com quebras de linha -->
 
@@ -23,13 +23,13 @@ Neste repositório, você vai encontrar:
 - Análise de dados experimentais de cana-de-açúcar, explorando **diferentes interações**: Genótipos × Ambientes (IGA), Genótipos × Corte (IGC) e interação tripla (IGAC);
 - Utilização de **diferentes metodologias**: AMMI, GGE Biplot, Eberhart-Russell e Modelos Mistos para identificação de genótipos superiores;
 - Construção de mapas genéticos;
-- Mapeamento de QTL em população biparental (diploide);
+- Mapeamento de QTL em feijão;
 - Deep Learning aplicado à fenotipagem digital.
 
 Estou sempre explorando novas técnicas, ferramentas e metodologias da **genética estatística** para analisar dados genéticos aplicados ao **melhoramento vegetal**. Se você também se interessa por essas áreas, vamos trocar ideias! 😁
 
 ## Languages & tools
-Embora o foco principal seja na linguagem R, também compartilharei scripts e projetos em outras linguagens à medida que eu for explorando outras ferramentas. 🚀
+Embora o foco principal seja a linguagem R, também compartilharei scripts e projetos em outras linguagens à medida que eu for explorando novas ferramentas. 🚀
 
 <div align="center" style="display: inline_block"><br>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R"/></code>
